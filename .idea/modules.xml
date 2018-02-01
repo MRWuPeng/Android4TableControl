@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\.idea\BlePhilipsDemo.iml" filepath="E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\.idea\BlePhilipsDemo.iml" />
+      <module fileurl="file://D:\SpeedataDemo\BlePhilipsDemo\BlePhilipsDemo.iml" filepath="D:\SpeedataDemo\BlePhilipsDemo\BlePhilipsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlePhilipsDemo-master.iml" filepath="$PROJECT_DIR$/BlePhilipsDemo-master.iml" />
+      <module fileurl="file://E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\app\app.iml" filepath="E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\app\app.iml" />
+      <module fileurl="file://E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\serverclient\serverclient.iml" filepath="E:\03.AdvancedResearch\7.RemoteTableControl\1.AndroidDevelopment\srcCodes\BlePhilipsDemo-master\serverclient\serverclient.iml" />
+    </modules>
+  </component>
+</project>
